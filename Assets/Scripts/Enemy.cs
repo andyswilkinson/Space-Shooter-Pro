@@ -28,8 +28,9 @@ public class Enemy : MonoBehaviour
         }
     }
 
-    private void onTriggerEnter(Collider other)
+    private void OnTriggerEnter(Collider other)
     {
         Debug.Log("Hit: " + other.transform.name);
     }
+
 }
