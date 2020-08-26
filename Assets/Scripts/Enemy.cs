@@ -30,7 +30,28 @@ public class Enemy : MonoBehaviour
 
     private void OnTriggerEnter(Collider other)
     {
-        Debug.Log("Hit: " + other.transform.name);
+        // if other is player
+        if(other.gameObject.CompareTag("Player"))
+        {
+            // damage the player
+            // destroy us
+            Player player = other.transform.GetComponent<Player>();
+
+            // null check to make sure player exists
+            if (player != null)
+            {
+                player.Damage();
+            }
+            Destroy(this.gameObject);
+        }
+        // if other is laser
+        else if(other.gameObject.CompareTag("Laser"))
+        {
+            // destroy laser
+            Destroy(other.gameObject);
+            // destroy us
+            Destroy(this.gameObject);
+        }
     }
 
 }
