@@ -62,9 +62,6 @@ public class Player : MonoBehaviour
 
     void FireLaser()
     {
-        // If I hit the space key
-        // spawn gameObject
-        
         _canFire = Time.time + _fireRate;
         // Instantiate Laser gameObject at the current position of the player plus 0.8 on the y axis
         Instantiate(_laserPrefab, transform.position + new Vector3(0, 0.8f, 0), Quaternion.identity);

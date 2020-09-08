@@ -13,30 +13,12 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2020-08-25T22:29:49.188-07:00
-  initializedAtString: 2020-08-25T21:36:12.583-07:00
+  lastUpdatedAtString: 2020-09-07T19:33:17.679-07:00
+  initializedAtString: 2020-09-07T14:03:53.696-07:00
   entries:
-  - path: .vscode/settings.json
-    fullPath: /Users/awilkins/Documents/GitHub/Space-Shooter-Pro/.vscode/settings.json
-    projectPath: .vscode/settings.json
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
   - path: Assembly-CSharp.csproj
     fullPath: /Users/awilkins/Documents/GitHub/Space-Shooter-Pro/Assembly-CSharp.csproj
     projectPath: Assembly-CSharp.csproj
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assembly-CSharp-Editor-firstpass.csproj
-    fullPath: /Users/awilkins/Documents/GitHub/Space-Shooter-Pro/Assembly-CSharp-Editor-firstpass.csproj
-    projectPath: Assembly-CSharp-Editor-firstpass.csproj
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets/Prefabs/Laser.prefab
-    fullPath: /Users/awilkins/Documents/GitHub/Space-Shooter-Pro/Assets/Prefabs/Laser.prefab
-    projectPath: Assets/Prefabs/Laser.prefab
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -58,12 +40,18 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library/APIUpdater/project-dependencies.graph
-    fullPath: /Users/awilkins/Documents/GitHub/Space-Shooter-Pro/Library/APIUpdater/project-dependencies.graph
-    projectPath: Library/APIUpdater/project-dependencies.graph
+  - path: Assets/Scripts/SpawnManager.cs
+    fullPath: /Users/awilkins/Documents/GitHub/Space-Shooter-Pro/Assets/Scripts/SpawnManager.cs
+    projectPath: Assets/Scripts/SpawnManager.cs
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Scripts/SpawnManager.cs.meta
+    fullPath: /Users/awilkins/Documents/GitHub/Space-Shooter-Pro/Assets/Scripts/SpawnManager.cs.meta
+    projectPath: Assets/Scripts/SpawnManager.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Library/ArtifactDB
     fullPath: /Users/awilkins/Documents/GitHub/Space-Shooter-Pro/Library/ArtifactDB
     projectPath: Library/ArtifactDB
@@ -74,11 +62,29 @@ MonoBehaviour:
     fullPath: /Users/awilkins/Documents/GitHub/Space-Shooter-Pro/Library/Artifacts/21/21c1a5f77c08fd9c77de5388b58110dc
     projectPath: Library/Artifacts/21/21c1a5f77c08fd9c77de5388b58110dc
     originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/2c/2c50cc5456bcaf1c56891df86beea5bb
+    fullPath: /Users/awilkins/Documents/GitHub/Space-Shooter-Pro/Library/Artifacts/2c/2c50cc5456bcaf1c56891df86beea5bb
+    projectPath: Library/Artifacts/2c/2c50cc5456bcaf1c56891df86beea5bb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/2e/2e5b1d348a3b3f0ef281e6af955c4803
+    fullPath: /Users/awilkins/Documents/GitHub/Space-Shooter-Pro/Library/Artifacts/2e/2e5b1d348a3b3f0ef281e6af955c4803
+    projectPath: Library/Artifacts/2e/2e5b1d348a3b3f0ef281e6af955c4803
+    originalPath: 
     indexStatus: 1
     workTreeStatus: 1
   - path: Library/Artifacts/34/34b8882dbd9dd8a01c2f90b41c33f246
     fullPath: /Users/awilkins/Documents/GitHub/Space-Shooter-Pro/Library/Artifacts/34/34b8882dbd9dd8a01c2f90b41c33f246
     projectPath: Library/Artifacts/34/34b8882dbd9dd8a01c2f90b41c33f246
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/37/37748f24a7cb1e4473b4c64ba8ba4a18
+    fullPath: /Users/awilkins/Documents/GitHub/Space-Shooter-Pro/Library/Artifacts/37/37748f24a7cb1e4473b4c64ba8ba4a18
+    projectPath: Library/Artifacts/37/37748f24a7cb1e4473b4c64ba8ba4a18
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -86,11 +92,23 @@ MonoBehaviour:
     fullPath: /Users/awilkins/Documents/GitHub/Space-Shooter-Pro/Library/Artifacts/3d/3d4d80a1a4f74dc07ac296b79b5f75a3
     projectPath: Library/Artifacts/3d/3d4d80a1a4f74dc07ac296b79b5f75a3
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library/Artifacts/49/49dc80100b52ebb26e6d34b8f0ae626e
     fullPath: /Users/awilkins/Documents/GitHub/Space-Shooter-Pro/Library/Artifacts/49/49dc80100b52ebb26e6d34b8f0ae626e
     projectPath: Library/Artifacts/49/49dc80100b52ebb26e6d34b8f0ae626e
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/4e/4e57710ac006163f6f7453a14ca83c92
+    fullPath: /Users/awilkins/Documents/GitHub/Space-Shooter-Pro/Library/Artifacts/4e/4e57710ac006163f6f7453a14ca83c92
+    projectPath: Library/Artifacts/4e/4e57710ac006163f6f7453a14ca83c92
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/79/79afa997bf10a61022ea6d3d1cff5731
+    fullPath: /Users/awilkins/Documents/GitHub/Space-Shooter-Pro/Library/Artifacts/79/79afa997bf10a61022ea6d3d1cff5731
+    projectPath: Library/Artifacts/79/79afa997bf10a61022ea6d3d1cff5731
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -98,11 +116,17 @@ MonoBehaviour:
     fullPath: /Users/awilkins/Documents/GitHub/Space-Shooter-Pro/Library/Artifacts/7f/7f01d6c29f38c5c3518a281f622e0cd0
     projectPath: Library/Artifacts/7f/7f01d6c29f38c5c3518a281f622e0cd0
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library/Artifacts/81/8152a88a22600f903acb4c9c734df52f
     fullPath: /Users/awilkins/Documents/GitHub/Space-Shooter-Pro/Library/Artifacts/81/8152a88a22600f903acb4c9c734df52f
     projectPath: Library/Artifacts/81/8152a88a22600f903acb4c9c734df52f
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/95/95eec8f098d607e814552bf0c7e8abe4
+    fullPath: /Users/awilkins/Documents/GitHub/Space-Shooter-Pro/Library/Artifacts/95/95eec8f098d607e814552bf0c7e8abe4
+    projectPath: Library/Artifacts/95/95eec8f098d607e814552bf0c7e8abe4
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -110,35 +134,59 @@ MonoBehaviour:
     fullPath: /Users/awilkins/Documents/GitHub/Space-Shooter-Pro/Library/Artifacts/a1/a125c4e26179a6c2719fcf2d9bc98a0f
     projectPath: Library/Artifacts/a1/a125c4e26179a6c2719fcf2d9bc98a0f
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library/Artifacts/a6/a6388dd1c4367d7c95f2aebe378d3411
     fullPath: /Users/awilkins/Documents/GitHub/Space-Shooter-Pro/Library/Artifacts/a6/a6388dd1c4367d7c95f2aebe378d3411
     projectPath: Library/Artifacts/a6/a6388dd1c4367d7c95f2aebe378d3411
     originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/b2/b29e7506b03c519a400045613bf4693b
+    fullPath: /Users/awilkins/Documents/GitHub/Space-Shooter-Pro/Library/Artifacts/b2/b29e7506b03c519a400045613bf4693b
+    projectPath: Library/Artifacts/b2/b29e7506b03c519a400045613bf4693b
+    originalPath: 
     indexStatus: 1
     workTreeStatus: 1
+  - path: Library/Artifacts/bf/bf610eac349a88b3754a0d1927d24cde
+    fullPath: /Users/awilkins/Documents/GitHub/Space-Shooter-Pro/Library/Artifacts/bf/bf610eac349a88b3754a0d1927d24cde
+    projectPath: Library/Artifacts/bf/bf610eac349a88b3754a0d1927d24cde
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library/Artifacts/d4/d49ee3ec1ed17dce3899f24dee9528b6
     fullPath: /Users/awilkins/Documents/GitHub/Space-Shooter-Pro/Library/Artifacts/d4/d49ee3ec1ed17dce3899f24dee9528b6
     projectPath: Library/Artifacts/d4/d49ee3ec1ed17dce3899f24dee9528b6
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/f0/f06ef850fc75a60244bb279fe6f94811
-    fullPath: /Users/awilkins/Documents/GitHub/Space-Shooter-Pro/Library/Artifacts/f0/f06ef850fc75a60244bb279fe6f94811
-    projectPath: Library/Artifacts/f0/f06ef850fc75a60244bb279fe6f94811
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/f1/f10b1ee5737d8111d15878aedeb83606
+    fullPath: /Users/awilkins/Documents/GitHub/Space-Shooter-Pro/Library/Artifacts/f1/f10b1ee5737d8111d15878aedeb83606
+    projectPath: Library/Artifacts/f1/f10b1ee5737d8111d15878aedeb83606
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library/Artifacts/f9/f9189a38d5da4d1e5bbd6b59feb450d4
     fullPath: /Users/awilkins/Documents/GitHub/Space-Shooter-Pro/Library/Artifacts/f9/f9189a38d5da4d1e5bbd6b59feb450d4
     projectPath: Library/Artifacts/f9/f9189a38d5da4d1e5bbd6b59feb450d4
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/f9/f9b81bf1dcb1eb3c8a150dfea3ab636c
+    fullPath: /Users/awilkins/Documents/GitHub/Space-Shooter-Pro/Library/Artifacts/f9/f9b81bf1dcb1eb3c8a150dfea3ab636c
+    projectPath: Library/Artifacts/f9/f9b81bf1dcb1eb3c8a150dfea3ab636c
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library/Artifacts/fb/fbe4601c1cccf53e10d90036c3a7aff2
     fullPath: /Users/awilkins/Documents/GitHub/Space-Shooter-Pro/Library/Artifacts/fb/fbe4601c1cccf53e10d90036c3a7aff2
     projectPath: Library/Artifacts/fb/fbe4601c1cccf53e10d90036c3a7aff2
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/CurrentMaximizeLayout.dwlt
+    fullPath: /Users/awilkins/Documents/GitHub/Space-Shooter-Pro/Library/CurrentMaximizeLayout.dwlt
+    projectPath: Library/CurrentMaximizeLayout.dwlt
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -146,26 +194,26 @@ MonoBehaviour:
     fullPath: /Users/awilkins/Documents/GitHub/Space-Shooter-Pro/Library/EditorInstance.json
     projectPath: Library/EditorInstance.json
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Library/gfu/cache/gitlocks.yaml
     fullPath: /Users/awilkins/Documents/GitHub/Space-Shooter-Pro/Library/gfu/cache/gitlocks.yaml
     projectPath: Library/gfu/cache/gitlocks.yaml
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library/gfu/cache/gitstatusentries.yaml
     fullPath: /Users/awilkins/Documents/GitHub/Space-Shooter-Pro/Library/gfu/cache/gitstatusentries.yaml
     projectPath: Library/gfu/cache/gitstatusentries.yaml
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library/gfu/cache/gittrackingstatus.yaml
     fullPath: /Users/awilkins/Documents/GitHub/Space-Shooter-Pro/Library/gfu/cache/gittrackingstatus.yaml
     projectPath: Library/gfu/cache/gittrackingstatus.yaml
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library/gfu/cache/gituser.yaml
     fullPath: /Users/awilkins/Documents/GitHub/Space-Shooter-Pro/Library/gfu/cache/gituser.yaml
     projectPath: Library/gfu/cache/gituser.yaml
@@ -175,18 +223,6 @@ MonoBehaviour:
   - path: Library/gfu/cache/repoinfo.yaml
     fullPath: /Users/awilkins/Documents/GitHub/Space-Shooter-Pro/Library/gfu/cache/repoinfo.yaml
     projectPath: Library/gfu/cache/repoinfo.yaml
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/InspectorExpandedItems.asset
-    fullPath: /Users/awilkins/Documents/GitHub/Space-Shooter-Pro/Library/InspectorExpandedItems.asset
-    projectPath: Library/InspectorExpandedItems.asset
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library/SceneVisibilityState.asset
-    fullPath: /Users/awilkins/Documents/GitHub/Space-Shooter-Pro/Library/SceneVisibilityState.asset
-    projectPath: Library/SceneVisibilityState.asset
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -202,156 +238,6 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library/ScriptAssemblies/Assembly-CSharp-Editor-firstpass.dll
-    fullPath: /Users/awilkins/Documents/GitHub/Space-Shooter-Pro/Library/ScriptAssemblies/Assembly-CSharp-Editor-firstpass.dll
-    projectPath: Library/ScriptAssemblies/Assembly-CSharp-Editor-firstpass.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library/ScriptAssemblies/Assembly-CSharp-Editor-firstpass.pdb
-    fullPath: /Users/awilkins/Documents/GitHub/Space-Shooter-Pro/Library/ScriptAssemblies/Assembly-CSharp-Editor-firstpass.pdb
-    projectPath: Library/ScriptAssemblies/Assembly-CSharp-Editor-firstpass.pdb
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll
-    fullPath: /Users/awilkins/Documents/GitHub/Space-Shooter-Pro/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll
-    projectPath: Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library/ScriptAssemblies/Unity.CollabProxy.Editor.pdb
-    fullPath: /Users/awilkins/Documents/GitHub/Space-Shooter-Pro/Library/ScriptAssemblies/Unity.CollabProxy.Editor.pdb
-    projectPath: Library/ScriptAssemblies/Unity.CollabProxy.Editor.pdb
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library/ScriptAssemblies/Unity.Rider.Editor.dll
-    fullPath: /Users/awilkins/Documents/GitHub/Space-Shooter-Pro/Library/ScriptAssemblies/Unity.Rider.Editor.dll
-    projectPath: Library/ScriptAssemblies/Unity.Rider.Editor.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library/ScriptAssemblies/Unity.Rider.Editor.pdb
-    fullPath: /Users/awilkins/Documents/GitHub/Space-Shooter-Pro/Library/ScriptAssemblies/Unity.Rider.Editor.pdb
-    projectPath: Library/ScriptAssemblies/Unity.Rider.Editor.pdb
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library/ScriptAssemblies/Unity.TextMeshPro.dll
-    fullPath: /Users/awilkins/Documents/GitHub/Space-Shooter-Pro/Library/ScriptAssemblies/Unity.TextMeshPro.dll
-    projectPath: Library/ScriptAssemblies/Unity.TextMeshPro.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll
-    fullPath: /Users/awilkins/Documents/GitHub/Space-Shooter-Pro/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll
-    projectPath: Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library/ScriptAssemblies/Unity.TextMeshPro.Editor.pdb
-    fullPath: /Users/awilkins/Documents/GitHub/Space-Shooter-Pro/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.pdb
-    projectPath: Library/ScriptAssemblies/Unity.TextMeshPro.Editor.pdb
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library/ScriptAssemblies/Unity.TextMeshPro.pdb
-    fullPath: /Users/awilkins/Documents/GitHub/Space-Shooter-Pro/Library/ScriptAssemblies/Unity.TextMeshPro.pdb
-    projectPath: Library/ScriptAssemblies/Unity.TextMeshPro.pdb
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library/ScriptAssemblies/Unity.Timeline.dll
-    fullPath: /Users/awilkins/Documents/GitHub/Space-Shooter-Pro/Library/ScriptAssemblies/Unity.Timeline.dll
-    projectPath: Library/ScriptAssemblies/Unity.Timeline.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library/ScriptAssemblies/Unity.Timeline.Editor.dll
-    fullPath: /Users/awilkins/Documents/GitHub/Space-Shooter-Pro/Library/ScriptAssemblies/Unity.Timeline.Editor.dll
-    projectPath: Library/ScriptAssemblies/Unity.Timeline.Editor.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library/ScriptAssemblies/Unity.Timeline.Editor.pdb
-    fullPath: /Users/awilkins/Documents/GitHub/Space-Shooter-Pro/Library/ScriptAssemblies/Unity.Timeline.Editor.pdb
-    projectPath: Library/ScriptAssemblies/Unity.Timeline.Editor.pdb
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library/ScriptAssemblies/Unity.Timeline.pdb
-    fullPath: /Users/awilkins/Documents/GitHub/Space-Shooter-Pro/Library/ScriptAssemblies/Unity.Timeline.pdb
-    projectPath: Library/ScriptAssemblies/Unity.Timeline.pdb
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library/ScriptAssemblies/Unity.VSCode.Editor.dll
-    fullPath: /Users/awilkins/Documents/GitHub/Space-Shooter-Pro/Library/ScriptAssemblies/Unity.VSCode.Editor.dll
-    projectPath: Library/ScriptAssemblies/Unity.VSCode.Editor.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library/ScriptAssemblies/Unity.VSCode.Editor.pdb
-    fullPath: /Users/awilkins/Documents/GitHub/Space-Shooter-Pro/Library/ScriptAssemblies/Unity.VSCode.Editor.pdb
-    projectPath: Library/ScriptAssemblies/Unity.VSCode.Editor.pdb
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library/ScriptAssemblies/UnityEditor.TestRunner.dll
-    fullPath: /Users/awilkins/Documents/GitHub/Space-Shooter-Pro/Library/ScriptAssemblies/UnityEditor.TestRunner.dll
-    projectPath: Library/ScriptAssemblies/UnityEditor.TestRunner.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library/ScriptAssemblies/UnityEditor.TestRunner.pdb
-    fullPath: /Users/awilkins/Documents/GitHub/Space-Shooter-Pro/Library/ScriptAssemblies/UnityEditor.TestRunner.pdb
-    projectPath: Library/ScriptAssemblies/UnityEditor.TestRunner.pdb
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library/ScriptAssemblies/UnityEditor.UI.dll
-    fullPath: /Users/awilkins/Documents/GitHub/Space-Shooter-Pro/Library/ScriptAssemblies/UnityEditor.UI.dll
-    projectPath: Library/ScriptAssemblies/UnityEditor.UI.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library/ScriptAssemblies/UnityEngine.TestRunner.dll
-    fullPath: /Users/awilkins/Documents/GitHub/Space-Shooter-Pro/Library/ScriptAssemblies/UnityEngine.TestRunner.dll
-    projectPath: Library/ScriptAssemblies/UnityEngine.TestRunner.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library/ScriptAssemblies/UnityEngine.TestRunner.pdb
-    fullPath: /Users/awilkins/Documents/GitHub/Space-Shooter-Pro/Library/ScriptAssemblies/UnityEngine.TestRunner.pdb
-    projectPath: Library/ScriptAssemblies/UnityEngine.TestRunner.pdb
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library/ScriptAssemblies/UnityEngine.UI.dll
-    fullPath: /Users/awilkins/Documents/GitHub/Space-Shooter-Pro/Library/ScriptAssemblies/UnityEngine.UI.dll
-    projectPath: Library/ScriptAssemblies/UnityEngine.UI.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library/ShaderCache/EditorEncounteredVariants
-    fullPath: /Users/awilkins/Documents/GitHub/Space-Shooter-Pro/Library/ShaderCache/EditorEncounteredVariants
-    projectPath: Library/ShaderCache/EditorEncounteredVariants
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library/shadercompiler-UnityShaderCompiler1.log
-    fullPath: /Users/awilkins/Documents/GitHub/Space-Shooter-Pro/Library/shadercompiler-UnityShaderCompiler1.log
-    projectPath: Library/shadercompiler-UnityShaderCompiler1.log
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library/shadercompiler-UnityShaderCompiler2.log
-    fullPath: /Users/awilkins/Documents/GitHub/Space-Shooter-Pro/Library/shadercompiler-UnityShaderCompiler2.log
-    projectPath: Library/shadercompiler-UnityShaderCompiler2.log
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
   - path: Library/SourceAssetDB
     fullPath: /Users/awilkins/Documents/GitHub/Space-Shooter-Pro/Library/SourceAssetDB
     projectPath: Library/SourceAssetDB
@@ -364,153 +250,57 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: ProjectSettings/TagManager.asset
-    fullPath: /Users/awilkins/Documents/GitHub/Space-Shooter-Pro/ProjectSettings/TagManager.asset
-    projectPath: ProjectSettings/TagManager.asset
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Space-Shooter-Pro.sln
-    fullPath: /Users/awilkins/Documents/GitHub/Space-Shooter-Pro/Space-Shooter-Pro.sln
-    projectPath: Space-Shooter-Pro.sln
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
   - path: Temp/__Backupscenes/0.backup
     fullPath: /Users/awilkins/Documents/GitHub/Space-Shooter-Pro/Temp/__Backupscenes/0.backup
     projectPath: Temp/__Backupscenes/0.backup
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp/UnityTempFile-18dc71561e1a54a7386dcdc76969b172
-    fullPath: /Users/awilkins/Documents/GitHub/Space-Shooter-Pro/Temp/UnityTempFile-18dc71561e1a54a7386dcdc76969b172
-    projectPath: Temp/UnityTempFile-18dc71561e1a54a7386dcdc76969b172
+  - path: Temp/UnityLockfile
+    fullPath: /Users/awilkins/Documents/GitHub/Space-Shooter-Pro/Temp/UnityLockfile
+    projectPath: Temp/UnityLockfile
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp/UnityTempFile-1b09282dca9e54cd3b1a08133cea7ee5
-    fullPath: /Users/awilkins/Documents/GitHub/Space-Shooter-Pro/Temp/UnityTempFile-1b09282dca9e54cd3b1a08133cea7ee5
-    projectPath: Temp/UnityTempFile-1b09282dca9e54cd3b1a08133cea7ee5
+  - path: Temp/UnityTempFile-27b4509c9209b422686707226255b33c
+    fullPath: /Users/awilkins/Documents/GitHub/Space-Shooter-Pro/Temp/UnityTempFile-27b4509c9209b422686707226255b33c
+    projectPath: Temp/UnityTempFile-27b4509c9209b422686707226255b33c
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp/UnityTempFile-204d8e79e6f6c44db94730b1cc6f4e68
-    fullPath: /Users/awilkins/Documents/GitHub/Space-Shooter-Pro/Temp/UnityTempFile-204d8e79e6f6c44db94730b1cc6f4e68
-    projectPath: Temp/UnityTempFile-204d8e79e6f6c44db94730b1cc6f4e68
+  - path: Temp/UnityTempFile-444c8269b09b14c1a89320a120d7ba00
+    fullPath: /Users/awilkins/Documents/GitHub/Space-Shooter-Pro/Temp/UnityTempFile-444c8269b09b14c1a89320a120d7ba00
+    projectPath: Temp/UnityTempFile-444c8269b09b14c1a89320a120d7ba00
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp/UnityTempFile-20cc501f5563e450b94d99d3f6e99ec3
-    fullPath: /Users/awilkins/Documents/GitHub/Space-Shooter-Pro/Temp/UnityTempFile-20cc501f5563e450b94d99d3f6e99ec3
-    projectPath: Temp/UnityTempFile-20cc501f5563e450b94d99d3f6e99ec3
+  - path: Temp/UnityTempFile-8078374f30f954f03bb2981f753b7251
+    fullPath: /Users/awilkins/Documents/GitHub/Space-Shooter-Pro/Temp/UnityTempFile-8078374f30f954f03bb2981f753b7251
+    projectPath: Temp/UnityTempFile-8078374f30f954f03bb2981f753b7251
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp/UnityTempFile-2d6dee7fe3eaa4989866ed3a0672feb1
-    fullPath: /Users/awilkins/Documents/GitHub/Space-Shooter-Pro/Temp/UnityTempFile-2d6dee7fe3eaa4989866ed3a0672feb1
-    projectPath: Temp/UnityTempFile-2d6dee7fe3eaa4989866ed3a0672feb1
+  - path: Temp/UnityTempFile-b5b641aa12ac04a48a5a299970ce3326
+    fullPath: /Users/awilkins/Documents/GitHub/Space-Shooter-Pro/Temp/UnityTempFile-b5b641aa12ac04a48a5a299970ce3326
+    projectPath: Temp/UnityTempFile-b5b641aa12ac04a48a5a299970ce3326
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp/UnityTempFile-3cee74a74477b43d19f1837848f86ec3
-    fullPath: /Users/awilkins/Documents/GitHub/Space-Shooter-Pro/Temp/UnityTempFile-3cee74a74477b43d19f1837848f86ec3
-    projectPath: Temp/UnityTempFile-3cee74a74477b43d19f1837848f86ec3
+  - path: Temp/UnityTempFile-bbb27c7dd3c0641af99d9d2ca08b38f3
+    fullPath: /Users/awilkins/Documents/GitHub/Space-Shooter-Pro/Temp/UnityTempFile-bbb27c7dd3c0641af99d9d2ca08b38f3
+    projectPath: Temp/UnityTempFile-bbb27c7dd3c0641af99d9d2ca08b38f3
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp/UnityTempFile-69c9e4f40df284d1b805575605f7dc03
-    fullPath: /Users/awilkins/Documents/GitHub/Space-Shooter-Pro/Temp/UnityTempFile-69c9e4f40df284d1b805575605f7dc03
-    projectPath: Temp/UnityTempFile-69c9e4f40df284d1b805575605f7dc03
+  - path: Temp/UnityTempFile-c88ebbb693390458f8b5df4a1be6fc63
+    fullPath: /Users/awilkins/Documents/GitHub/Space-Shooter-Pro/Temp/UnityTempFile-c88ebbb693390458f8b5df4a1be6fc63
+    projectPath: Temp/UnityTempFile-c88ebbb693390458f8b5df4a1be6fc63
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp/UnityTempFile-767d62da0ac4c4416995c9402cd07e65
-    fullPath: /Users/awilkins/Documents/GitHub/Space-Shooter-Pro/Temp/UnityTempFile-767d62da0ac4c4416995c9402cd07e65
-    projectPath: Temp/UnityTempFile-767d62da0ac4c4416995c9402cd07e65
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/UnityTempFile-78967456068f14fb5bbbf2538ea10363
-    fullPath: /Users/awilkins/Documents/GitHub/Space-Shooter-Pro/Temp/UnityTempFile-78967456068f14fb5bbbf2538ea10363
-    projectPath: Temp/UnityTempFile-78967456068f14fb5bbbf2538ea10363
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/UnityTempFile-7e9f96942b1f2442fb4864ce8f1f76f4
-    fullPath: /Users/awilkins/Documents/GitHub/Space-Shooter-Pro/Temp/UnityTempFile-7e9f96942b1f2442fb4864ce8f1f76f4
-    projectPath: Temp/UnityTempFile-7e9f96942b1f2442fb4864ce8f1f76f4
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/UnityTempFile-8a22398b1adfc42a7a0f4915b8166c50
-    fullPath: /Users/awilkins/Documents/GitHub/Space-Shooter-Pro/Temp/UnityTempFile-8a22398b1adfc42a7a0f4915b8166c50
-    projectPath: Temp/UnityTempFile-8a22398b1adfc42a7a0f4915b8166c50
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/UnityTempFile-90d797bf67547442d9b29e855b3f160a
-    fullPath: /Users/awilkins/Documents/GitHub/Space-Shooter-Pro/Temp/UnityTempFile-90d797bf67547442d9b29e855b3f160a
-    projectPath: Temp/UnityTempFile-90d797bf67547442d9b29e855b3f160a
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/UnityTempFile-90e00b0a1a3d646c99492f2886bfacaa
-    fullPath: /Users/awilkins/Documents/GitHub/Space-Shooter-Pro/Temp/UnityTempFile-90e00b0a1a3d646c99492f2886bfacaa
-    projectPath: Temp/UnityTempFile-90e00b0a1a3d646c99492f2886bfacaa
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/UnityTempFile-9a1c30b6993004c878b08928073b7f89
-    fullPath: /Users/awilkins/Documents/GitHub/Space-Shooter-Pro/Temp/UnityTempFile-9a1c30b6993004c878b08928073b7f89
-    projectPath: Temp/UnityTempFile-9a1c30b6993004c878b08928073b7f89
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/UnityTempFile-b007e306a77f04781a994eced6e0ff3a
-    fullPath: /Users/awilkins/Documents/GitHub/Space-Shooter-Pro/Temp/UnityTempFile-b007e306a77f04781a994eced6e0ff3a
-    projectPath: Temp/UnityTempFile-b007e306a77f04781a994eced6e0ff3a
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/UnityTempFile-cc0d220ab9ac449438ee19fc77beb590
-    fullPath: /Users/awilkins/Documents/GitHub/Space-Shooter-Pro/Temp/UnityTempFile-cc0d220ab9ac449438ee19fc77beb590
-    projectPath: Temp/UnityTempFile-cc0d220ab9ac449438ee19fc77beb590
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/UnityTempFile-d789603a989a445258493cad290fabf5
-    fullPath: /Users/awilkins/Documents/GitHub/Space-Shooter-Pro/Temp/UnityTempFile-d789603a989a445258493cad290fabf5
-    projectPath: Temp/UnityTempFile-d789603a989a445258493cad290fabf5
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/UnityTempFile-d8891c9436e1f4352a9eae10f3c392e4
-    fullPath: /Users/awilkins/Documents/GitHub/Space-Shooter-Pro/Temp/UnityTempFile-d8891c9436e1f4352a9eae10f3c392e4
-    projectPath: Temp/UnityTempFile-d8891c9436e1f4352a9eae10f3c392e4
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/UnityTempFile-e2194533108b9451496fe39553140daa
-    fullPath: /Users/awilkins/Documents/GitHub/Space-Shooter-Pro/Temp/UnityTempFile-e2194533108b9451496fe39553140daa
-    projectPath: Temp/UnityTempFile-e2194533108b9451496fe39553140daa
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/UnityTempFile-f78317a5b626740e19e8fc492b7ed1b9
-    fullPath: /Users/awilkins/Documents/GitHub/Space-Shooter-Pro/Temp/UnityTempFile-f78317a5b626740e19e8fc492b7ed1b9
-    projectPath: Temp/UnityTempFile-f78317a5b626740e19e8fc492b7ed1b9
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/UnityTempFile-fa4d22aa8e1d4438682208f781754f3f
-    fullPath: /Users/awilkins/Documents/GitHub/Space-Shooter-Pro/Temp/UnityTempFile-fa4d22aa8e1d4438682208f781754f3f
-    projectPath: Temp/UnityTempFile-fa4d22aa8e1d4438682208f781754f3f
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp/UnityTempFile-fcf446f083bce443a8fb4deb046650ae
-    fullPath: /Users/awilkins/Documents/GitHub/Space-Shooter-Pro/Temp/UnityTempFile-fcf446f083bce443a8fb4deb046650ae
-    projectPath: Temp/UnityTempFile-fcf446f083bce443a8fb4deb046650ae
+  - path: Temp/UnityTempFile-d51771f86b6b147708ba0c54c4a3704b
+    fullPath: /Users/awilkins/Documents/GitHub/Space-Shooter-Pro/Temp/UnityTempFile-d51771f86b6b147708ba0c54c4a3704b
+    projectPath: Temp/UnityTempFile-d51771f86b6b147708ba0c54c4a3704b
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1

@@ -31,7 +31,7 @@ public class Enemy : MonoBehaviour
     private void OnTriggerEnter(Collider other)
     {
         // if other is player
-        if(other.gameObject.CompareTag("Player"))
+        if(other.tag == "Player")
         {
             // damage the player
             // destroy us
@@ -45,7 +45,7 @@ public class Enemy : MonoBehaviour
             Destroy(this.gameObject);
         }
         // if other is laser
-        else if(other.gameObject.CompareTag("Laser"))
+        else if(other.tag == "Laser")
         {
             // destroy laser
             Destroy(other.gameObject);
